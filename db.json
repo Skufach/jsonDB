@@ -1,0 +1,61 @@
+{
+    "conditionsList": [
+        {
+            "id": 1,
+            "name": "typeCard",
+            "title": "Тип карты лояльности",
+            "shortTitle": "Тип",
+            "type": "selecting",
+            "items": [
+                {
+                    "value": "Black"
+                },
+                {
+                    "value": "Gold"
+                },
+                {
+                    "value": "Silver"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "statusCard",
+            "title": "Статус карты лояльности",
+            "shortTitle": "Статус",
+            "type": "selecting",
+            "items": [
+                {
+                    "value": "активна"
+                },
+                {
+                    "value": "временно недоступна"
+                },
+                {
+                    "value": "неактивна"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "ageRespondent",
+            "title": "Возраст респондента",
+            "shortTitle": "Диапазон",
+            "type": "range"
+        }
+    ],
+    "conditions": [
+        {
+            "id": 1,
+            "value": "Тип карты лояльности"
+        },
+        {
+            "id": 2,
+            "value": "Статус карты лояльности"
+        },
+        {
+            "id": 3,
+            "value": "Возраст респондента"
+        }
+    ]
+}
