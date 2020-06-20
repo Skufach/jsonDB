@@ -1,61 +1,88 @@
 {
-    "conditionsList": [
+    "array_one": [
         {
-            "id": 1,
-            "name": "typeCard",
-            "title": "Тип карты лояльности",
-            "shortTitle": "Тип",
-            "type": "selecting",
-            "items": [
-                {
-                    "value": "Black"
-                },
-                {
-                    "value": "Gold"
-                },
-                {
-                    "value": "Silver"
-                }
-            ]
+            "title": "Main",
+            "desc": "Lorem ipsum",
+            "bgUrl": url('../img1.png')
         },
         {
-            "id": 2,
-            "name": "statusCard",
-            "title": "Статус карты лояльности",
-            "shortTitle": "Статус",
-            "type": "selecting",
-            "items": [
-                {
-                    "value": "активна"
-                },
-                {
-                    "value": "временно недоступна"
-                },
-                {
-                    "value": "неактивна"
-                }
-            ]
+            "title": "Main",
+            "desc": "Lorem ipsum",
+            "bgUrl": url('../img1.png')
         },
         {
-            "id": 3,
-            "name": "ageRespondent",
-            "title": "Возраст респондента",
-            "shortTitle": "Диапазон",
-            "type": "range"
-        }
+            "title": "Main",
+            "desc": "Lorem ipsum",
+            "bgUrl": url('../img1.png')
+        },
+        {
+            "title": "Main",
+            "desc": "Lorem ipsum",
+            "bgUrl": url('../img1.png')
+        },
     ],
-    "conditions": [
+
+    "array_two": [
         {
-            "id": 1,
-            "value": "Тип карты лояльности"
+		"title": "List Rich",
+		"bgUrl": url('../img2.png')
+		"items": [
+                {
+                    "nickname": "Ted Privet",
+                    "price": 124124
+                },
+                {
+                    "nickname": "Hello World!",
+                    "price": 11251
+                },
+                {
+                    "nickname": "Nagibator269",
+                    "price": 10000
+                },
+                {
+                    "nickname": "What you say&",
+                    "price": 5999
+                },
+                {
+                    "nickname": "Jane Cooper",
+                    "price": 11251
+                },
+                {
+                    "nickname": "Privet Vsem",
+                    "price": 1124
+                }
+            ]
         },
         {
-            "id": 2,
-            "value": "Статус карты лояльности"
+            "title": "List Bitch",
+            "bgUrl": url('../img2.png')
+		    "items": [
+                {
+                    "nickname": "Ivan Ivan",
+                    "price": 21412
+                },
+                {
+                    "nickname": "User looser!",
+                    "price": 11251
+                },
+                {
+                    "nickname": "dog",
+                    "price": 10000
+                },
+                {
+                    "nickname": "Michael music",
+                    "price": 58484
+                },
+                {
+                    "nickname": "Hello bochata!",
+                    "price": 57375
+                },
+                {
+                    "nickname": "Ochen lublu dlinnie imena",
+                    "price": 43843
+                }
+            ]
         },
-        {
-            "id": 3,
-            "value": "Возраст респондента"
-        }
+        
     ]
 }
