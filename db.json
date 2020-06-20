@@ -2,30 +2,30 @@
     "array_one": [
         {
             "title": "Main",
-            "desc": "Lorem ipsum",
-            "bgUrl": url('../img1.png')
+            "description": "Lorem ipsum",
+            "bgUrl": "https://i.pinimg.com/originals/56/b5/3f/56b53f99339bc428cc2f4499e0884d66.jpg"
         },
         {
             "title": "Main",
-            "desc": "Lorem ipsum",
-            "bgUrl": url('../img1.png')
+            "description": "Lorem ipsum",
+            "bgUrl": "https://klike.net/uploads/posts/2019-11/1572612050_1.jpg"
         },
         {
             "title": "Main",
-            "desc": "Lorem ipsum",
-            "bgUrl": url('../img1.png')
+            "description": "Lorem ipsum",
+            "bgUrl": "https://oboi.ws/wallpapers/17_12338_oboi_firewatch_1920x1080.jpg"
         },
         {
             "title": "Main",
-            "desc": "Lorem ipsum",
-            "bgUrl": url('../img1.png')
-        },
+            "description": "Lorem ipsum",
+            "bgUrl": "https://i.pinimg.com/originals/45/76/59/4576599b62dce603103bfc05ade5e6dc.jpg"
+        }
     ],
 
     "array_two": [
         {
 		"title": "List Rich",
-		"bgUrl": url('../img2.png')
+		"bgUrl": "https://fullhdwallpapers.ru/image/space/175/protivostoyanie.jpg",
 		"items": [
                 {
                     "nickname": "Ted Privet",
@@ -55,7 +55,7 @@
         },
         {
             "title": "List Bitch",
-            "bgUrl": url('../img2.png')
+            "bgUrl": "https://cs8.pikabu.ru/post_img/big/2017/12/27/6/1514367381163844367.jpg",
 		    "items": [
                 {
                     "nickname": "Ivan Ivan",
@@ -82,7 +82,7 @@
                     "price": 43843
                 }
             ]
-        },
+        }
         
     ]
 }
