@@ -19,10 +19,75 @@
             "title": "Main 4",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, consectetur.",
             "bgUrl": "https://i.pinimg.com/originals/45/76/59/4576599b62dce603103bfc05ade5e6dc.jpg"
+        },
+        {
+            "title": "Main 5",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, consectetur.",
+            "bgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Pizigani_1367_Chart_10MB.jpg"
         }
     ],
 
     "array_two": [
+        {
+            "title": "List BIG",
+            "bgUrl": "https://downloader.disk.yandex.ru/preview/02b81bc930c4cfa50eeed80c6d55d2941ebb513ddb926b989965a63b0aacc620/5ef49b1e/l_GwdPZOfgP00E64EZMKqzf6ZrRyG3vRozoevrLVgLBfVl3TY0qFzCGIfB0PGyFKvFeHeXPBGBGsIgdDlaXOQw==?uid=0&filename=fotografiya_visokogo_razresheniya.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&owner_uid=9958805&size=1920x942",
+            "items": [
+                {
+                    "nickname": "Ted Privet",
+                    "price": 124124
+                },
+                {
+                    "nickname": "Hello World!",
+                    "price": 11251
+                },
+                {
+                    "nickname": "Nagibator269",
+                    "price": 10000
+                },
+                {
+                    "nickname": "What you say&",
+                    "price": 5999
+                },
+                {
+                    "nickname": "Jane Cooper",
+                    "price": 11251
+                },
+                {
+                    "nickname": "Privet Vsem",
+                    "price": 1124
+                }
+            ]
+        },
+        {
+            "title": "List NEW",
+            "bgUrl": "https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/test-5mb.png",
+            "items": [
+                {
+                    "nickname": "Ted Privet",
+                    "price": 124124
+                },
+                {
+                    "nickname": "Hello World!",
+                    "price": 11251
+                },
+                {
+                    "nickname": "Nagibator269",
+                    "price": 10000
+                },
+                {
+                    "nickname": "What you say&",
+                    "price": 5999
+                },
+                {
+                    "nickname": "Jane Cooper",
+                    "price": 11251
+                },
+                {
+                    "nickname": "Privet Vsem",
+                    "price": 1124
+                }
+            ]
+        },
         {
 		"title": "List Rich",
 		"bgUrl": "https://fullhdwallpapers.ru/image/space/175/protivostoyanie.jpg",
